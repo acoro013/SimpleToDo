@@ -33,10 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Trying to get the One click in order to pop up the edit page is still in process.
+As of now, I set up a button that connects to another page which is used to edit the tasks
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Arturo Corona]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
