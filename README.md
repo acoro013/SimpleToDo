@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-* Trying to get the One click in order to pop up the edit page is still in process.
+* The onClick method used to bring up an edititng page for an item in the recycler view is still under progress
 * As of now, I set up a button that connects to another page which is used to edit the tasks
 
 ## License
