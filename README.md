@@ -26,17 +26,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='AppWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+* The onClick method used to bring up an edititng page for an item in the recycler view is still under progress
+* As of now, I set up a button that connects to another page which is used to edit the tasks
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Arturo Corona]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
